@@ -184,7 +184,7 @@ void render_logo(void) {
 }
 
 void render_logo_text(void) {
-    oled_write_P(PSTR("lily "), false);
+    oled_write_P(PSTR("trino "), false);
 }
 
 void render_kb_LED_state(void) {
